@@ -5,28 +5,6 @@
 This project focuses on analyzing Airbnb data to uncover insights about booking patterns, customer behaviour, pricing, and reservation status.
 The workflow involves data cleaning and transformation using SQL queries , followed by data visualization in Power BI to generate interactive dashboards.
 
-📂 Dataset
-
-The dataset contains booking-related information, including:
-
-ArrivalDateDayOfMonth, ArrivalDateMonth, ArrivalDateWeekNumber → Booking timelines
-
-Owner, Company, DistributionChannel → Business details
-
-Country, CountryName → Guest demographics
-
-CustomerType, DepositType → Booking behavior
-
-AssignedRoomType, ReservedRoomType → Room allocation
-
-Adults, Children, Babies → Guest composition
-
-MarketSegment, Meal, MealGroup → Service details
-
-ReservationStatus, ReservationStatusDate → Booking outcomes
-
-AmountPaid → Revenue information
-
 ⚙️ Tools & Technologies
 
 Jupyter Notebook → Analysis environment and workflow management
